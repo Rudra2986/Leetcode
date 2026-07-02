@@ -16,6 +16,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rudra2986/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Rudra2986/Leetcode/tree/master/0217-contains-duplicate) |
+| [0771-jewels-and-stones](https://github.com/Rudra2986/Leetcode/tree/master/0771-jewels-and-stones) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/Rudra2986/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Rudra2986/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rudra2986/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudra2986/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
