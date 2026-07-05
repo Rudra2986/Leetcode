@@ -28,6 +28,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Rudra2986/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rudra2986/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Rudra2986/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rudra2986/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rudra2986/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Rudra2986/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
