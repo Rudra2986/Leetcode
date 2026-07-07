@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rudra2986/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Rudra2986/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rudra2986/Leetcode/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/Rudra2986/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Rudra2986/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rudra2986/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Rudra2986/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rudra2986/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rudra2986/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Rudra2986/Leetcode/tree/master/0383-ransom-note) |
@@ -54,6 +56,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rudra2986/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Rudra2986/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rudra2986/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rudra2986/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -61,6 +64,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rudra2986/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rudra2986/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rudra2986/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Rudra2986/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -84,4 +88,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rudra2986/Leetcode/tree/master/0009-palindrome-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rudra2986/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
