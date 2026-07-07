@@ -5,8 +5,7 @@ class Solution:
         z = x
         y = 0
         while(z != 0):
-            digit = z%10
-            y = y*10 + digit
+            y = y*10 + (z%10)
             z = int(z/10)
         if x == y:
             return True
