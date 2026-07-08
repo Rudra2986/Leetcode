@@ -30,6 +30,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Rudra2986/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Rudra2986/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rudra2986/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Rudra2986/Leetcode/tree/master/0383-ransom-note) |
