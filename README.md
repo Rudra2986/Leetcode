@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Rudra2986/Leetcode/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/Rudra2986/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rudra2986/Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Rudra2986/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Rudra2986/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Rudra2986/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/Rudra2986/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -97,6 +98,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rudra2986/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rudra2986/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Rudra2986/Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Rudra2986/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rudra2986/Leetcode/tree/master/0344-reverse-string) |
 ## Math
 |  |
