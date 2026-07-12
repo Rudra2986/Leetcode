@@ -3,7 +3,7 @@ class Solution:
         op = []
         l = 0
         r = len(numbers)-1
-        for i in range(0,len(numbers)):
+        while l < r:
             if numbers[l] + numbers[r] == target:
                 op.append(l+1)
                 op.append(r+1)
