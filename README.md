@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Rudra2986/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Rudra2986/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Rudra2986/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rudra2986/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rudra2986/Leetcode/tree/master/0344-reverse-string) |
@@ -54,6 +55,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rudra2986/Leetcode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Rudra2986/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudra2986/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Matrix
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rudra2986/Leetcode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Rudra2986/Leetcode/tree/master/0067-add-binary) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -137,5 +140,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rudra2986/Leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Rudra2986/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
