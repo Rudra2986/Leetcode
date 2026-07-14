@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rudra2986/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Rudra2986/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Rudra2986/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -133,4 +134,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rudra2986/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Rudra2986/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
