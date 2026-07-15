@@ -120,6 +120,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Rudra2986/Leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Rudra2986/Leetcode/tree/master/0067-add-binary) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rudra2986/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -147,4 +148,8 @@
 | ------- |
 | [0067-add-binary](https://github.com/Rudra2986/Leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Rudra2986/Leetcode/tree/master/0191-number-of-1-bits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rudra2986/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
