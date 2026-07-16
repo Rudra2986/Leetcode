@@ -21,6 +21,7 @@
 | [1929-concatenation-of-array](https://github.com/Rudra2986/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudra2986/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Rudra2986/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rudra2986/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0067-add-binary](https://github.com/Rudra2986/Leetcode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Rudra2986/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudra2986/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rudra2986/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [0242-valid-anagram](https://github.com/Rudra2986/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Rudra2986/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rudra2986/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rudra2986/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -115,12 +118,14 @@
 | [0283-move-zeroes](https://github.com/Rudra2986/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rudra2986/Leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rudra2986/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rudra2986/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rudra2986/Leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Rudra2986/Leetcode/tree/master/0067-add-binary) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rudra2986/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rudra2986/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -152,4 +157,5 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rudra2986/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rudra2986/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
