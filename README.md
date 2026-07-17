@@ -13,6 +13,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rudra2986/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rudra2986/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rudra2986/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Rudra2986/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rudra2986/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Rudra2986/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Rudra2986/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -29,6 +30,7 @@
 | [0169-majority-element](https://github.com/Rudra2986/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rudra2986/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rudra2986/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Rudra2986/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rudra2986/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Rudra2986/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rudra2986/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -88,6 +90,7 @@
 | [0169-majority-element](https://github.com/Rudra2986/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rudra2986/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rudra2986/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Rudra2986/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rudra2986/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rudra2986/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rudra2986/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -125,6 +128,7 @@
 | [0009-palindrome-number](https://github.com/Rudra2986/Leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Rudra2986/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Rudra2986/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Rudra2986/Leetcode/tree/master/0268-missing-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rudra2986/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rudra2986/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -150,11 +154,13 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Rudra2986/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rudra2986/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Rudra2986/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rudra2986/Leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Rudra2986/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Rudra2986/Leetcode/tree/master/0268-missing-number) |
 ## Number Theory
 |  |
 | ------- |
