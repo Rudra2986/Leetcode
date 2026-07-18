@@ -21,6 +21,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Rudra2986/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Rudra2986/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Rudra2986/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rudra2986/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudra2986/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Rudra2986/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rudra2986/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -130,6 +131,7 @@
 | [0067-add-binary](https://github.com/Rudra2986/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Rudra2986/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Rudra2986/Leetcode/tree/master/0268-missing-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rudra2986/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rudra2986/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rudra2986/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -166,6 +168,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rudra2986/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rudra2986/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rudra2986/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
