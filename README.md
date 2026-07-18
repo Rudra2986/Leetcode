@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/Rudra2986/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Rudra2986/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Rudra2986/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Rudra2986/Leetcode/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Rudra2986/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Rudra2986/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Rudra2986/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -159,6 +160,7 @@
 | [0069-sqrtx](https://github.com/Rudra2986/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rudra2986/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Rudra2986/Leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Rudra2986/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
