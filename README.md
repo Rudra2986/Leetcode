@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/Rudra2986/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rudra2986/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rudra2986/Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Rudra2986/Leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Rudra2986/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rudra2986/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rudra2986/Leetcode/tree/master/0169-majority-element) |
@@ -157,6 +158,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Rudra2986/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Rudra2986/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rudra2986/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Rudra2986/Leetcode/tree/master/0268-missing-number) |
