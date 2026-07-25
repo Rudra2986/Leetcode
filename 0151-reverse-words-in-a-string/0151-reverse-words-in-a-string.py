@@ -19,5 +19,4 @@ class Solution:
         for i in range(len(op)-1,-1,-1):
             final += op[i]
             final += " "
-        final = final.strip()
-        return final
+        return " ".join(op[::-1])
