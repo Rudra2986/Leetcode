@@ -4,10 +4,8 @@ class Solution:
         prev2 = 0
         next = 0
 
-        if n == 0:
-            return 0
-        if n == 1:
-            return 1
+        if n <= 1:
+            return n
         
         for i in range(1,n):
                 next = prev1 + prev2
