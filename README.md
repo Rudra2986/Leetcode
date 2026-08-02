@@ -68,6 +68,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Rudra2986/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rudra2986/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/Rudra2986/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Rudra2986/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Rudra2986/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Rudra2986/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rudra2986/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -231,4 +232,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rudra2986/Leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Rudra2986/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
