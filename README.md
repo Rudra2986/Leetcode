@@ -25,6 +25,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rudra2986/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Rudra2986/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Rudra2986/Leetcode/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/Rudra2986/Leetcode/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/Rudra2986/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Rudra2986/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rudra2986/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -157,6 +158,7 @@
 | [0189-rotate-array](https://github.com/Rudra2986/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rudra2986/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Rudra2986/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Rudra2986/Leetcode/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Rudra2986/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudra2986/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rudra2986/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -216,6 +218,7 @@
 | [0053-maximum-subarray](https://github.com/Rudra2986/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rudra2986/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Rudra2986/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Rudra2986/Leetcode/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -236,4 +239,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Rudra2986/Leetcode/tree/master/0796-rotate-string) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Rudra2986/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
