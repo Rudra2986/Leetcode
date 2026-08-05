@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/Rudra2986/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Rudra2986/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Rudra2986/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Rudra2986/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rudra2986/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Rudra2986/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rudra2986/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -197,6 +198,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rudra2986/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Rudra2986/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Rudra2986/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Rudra2986/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Rudra2986/Leetcode/tree/master/0260-single-number-iii) |
@@ -243,4 +245,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Rudra2986/Leetcode/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Rudra2986/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
