@@ -162,6 +162,7 @@
 | [0877-stone-game](https://github.com/Rudra2986/Leetcode/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Rudra2986/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudra2986/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Rudra2986/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rudra2986/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rudra2986/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -249,4 +250,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Rudra2986/Leetcode/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Rudra2986/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
