@@ -156,6 +156,7 @@
 | [0009-palindrome-number](https://github.com/Rudra2986/Leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Rudra2986/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Rudra2986/Leetcode/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/Rudra2986/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Rudra2986/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rudra2986/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Rudra2986/Leetcode/tree/master/0509-fibonacci-number) |
