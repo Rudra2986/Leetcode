@@ -24,6 +24,7 @@
 | [0268-missing-number](https://github.com/Rudra2986/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rudra2986/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Rudra2986/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Rudra2986/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Rudra2986/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Rudra2986/Leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Rudra2986/Leetcode/tree/master/0877-stone-game) |
@@ -46,6 +47,7 @@
 | [0242-valid-anagram](https://github.com/Rudra2986/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rudra2986/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rudra2986/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Rudra2986/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Rudra2986/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rudra2986/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rudra2986/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -115,6 +117,7 @@
 | [0242-valid-anagram](https://github.com/Rudra2986/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rudra2986/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rudra2986/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Rudra2986/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Rudra2986/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rudra2986/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rudra2986/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -146,6 +149,7 @@
 | [0189-rotate-array](https://github.com/Rudra2986/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rudra2986/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rudra2986/Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Rudra2986/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rudra2986/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudra2986/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rudra2986/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -194,6 +198,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rudra2986/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Rudra2986/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Rudra2986/Leetcode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Rudra2986/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rudra2986/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Rudra2986/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
