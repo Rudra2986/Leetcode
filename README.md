@@ -265,4 +265,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rudra2986/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rudra2986/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
