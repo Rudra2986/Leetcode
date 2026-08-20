@@ -25,5 +25,3 @@ class Solution:
                 stack.pop()
 
         return len(stack) == 0
-
-
