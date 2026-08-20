@@ -1,14 +1,18 @@
 class Solution:
     def singleNumber(self, nums: list[int]) -> list[int]:
-        op = []
-        freq = {}
+        xor = 0
         for i in nums:
-            if i in freq:
-                freq[i] += 1
+            xor ^= i
+
+        bit = xor & -xor
+
+        a = 0
+        b = 0
+
+        for i in nums:
+            if i & bit:
+                a ^= i
             else:
-                freq[i] = 1
-        
-        for i in freq:
-            if freq[i] == 1:
-                op.append(i)
-        return op
+                b ^= i
+
+        return [a, b]
