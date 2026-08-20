@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rudra2986/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Rudra2986/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rudra2986/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Rudra2986/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Rudra2986/Leetcode/tree/master/0067-add-binary) |
@@ -251,6 +252,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rudra2986/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rudra2986/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/Rudra2986/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Memoization
@@ -303,4 +305,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rudra2986/Leetcode/tree/master/0042-trapping-rain-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rudra2986/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
