@@ -314,4 +314,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rudra2986/Leetcode/tree/master/0020-valid-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Rudra2986/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Rudra2986/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
