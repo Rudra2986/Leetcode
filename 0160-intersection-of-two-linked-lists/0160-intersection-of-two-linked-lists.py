@@ -3,21 +3,23 @@ class ListNode:
     def __init__(self, x):
         self.val = x
         self.next = None
-        
+
 class Solution:
     def getIntersectionNode(self, headA, headB):
 
-        nodes = set()
+        a = headA
+        b = headB
 
-        curr = headA
-        while curr:
-            nodes.add(curr)
-            curr = curr.next
+        while a != b:
 
-        curr = headB
-        while curr:
-            if curr in nodes:
-                return curr
-            curr = curr.next
+            if a:
+                a = a.next
+            else:
+                a = headB
 
-        return None
+            if b:
+                b = b.next
+            else:
+                b = headA
+
+        return a
