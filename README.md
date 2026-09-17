@@ -89,6 +89,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Rudra2986/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Rudra2986/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rudra2986/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rudra2986/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Rudra2986/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudra2986/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Rudra2986/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -281,6 +282,7 @@
 | [0042-trapping-rain-water](https://github.com/Rudra2986/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Rudra2986/Leetcode/tree/master/0143-reorder-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Rudra2986/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rudra2986/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Memoization
 |  |
 | ------- |
@@ -335,6 +337,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rudra2986/Leetcode/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rudra2986/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Minimax
 |  |
 | ------- |
