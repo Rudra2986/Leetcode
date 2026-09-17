@@ -67,6 +67,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rudra2986/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Rudra2986/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Rudra2986/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rudra2986/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -155,6 +156,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rudra2986/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Rudra2986/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rudra2986/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rudra2986/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -268,6 +270,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rudra2986/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Rudra2986/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rudra2986/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Rudra2986/Leetcode/tree/master/0070-climbing-stairs) |
@@ -350,4 +353,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rudra2986/Leetcode/tree/master/0141-linked-list-cycle) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rudra2986/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
