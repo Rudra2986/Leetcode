@@ -103,6 +103,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rudra2986/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Rudra2986/Leetcode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Rudra2986/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudra2986/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudra2986/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -199,6 +200,7 @@
 | [0070-climbing-stairs](https://github.com/Rudra2986/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Rudra2986/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Rudra2986/Leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Rudra2986/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Rudra2986/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Rudra2986/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Rudra2986/Leetcode/tree/master/0877-stone-game) |
@@ -264,6 +266,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Rudra2986/Leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudra2986/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rudra2986/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rudra2986/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
