@@ -36,6 +36,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Rudra2986/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Rudra2986/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rudra2986/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rudra2986/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/Rudra2986/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudra2986/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudra2986/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/Rudra2986/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Rudra2986/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rudra2986/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [0409-longest-palindrome](https://github.com/Rudra2986/Leetcode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Rudra2986/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rudra2986/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rudra2986/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/Rudra2986/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
 |  |
@@ -142,6 +145,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rudra2986/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Rudra2986/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Rudra2986/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rudra2986/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rudra2986/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rudra2986/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
@@ -254,6 +258,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Rudra2986/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rudra2986/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Rudra2986/Leetcode/tree/master/0704-binary-search) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rudra2986/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -369,4 +374,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rudra2986/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rudra2986/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
