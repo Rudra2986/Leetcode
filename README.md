@@ -206,6 +206,7 @@
 | [0189-rotate-array](https://github.com/Rudra2986/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Rudra2986/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Rudra2986/Leetcode/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/Rudra2986/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Rudra2986/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Rudra2986/Leetcode/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Rudra2986/Leetcode/tree/master/1903-largest-odd-number-in-string) |
