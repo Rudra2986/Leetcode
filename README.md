@@ -95,6 +95,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Rudra2986/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Rudra2986/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Rudra2986/Leetcode/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudra2986/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Rudra2986/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Rudra2986/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rudra2986/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -124,6 +125,7 @@
 | [0011-container-with-most-water](https://github.com/Rudra2986/Leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Rudra2986/Leetcode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Rudra2986/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudra2986/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rudra2986/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rudra2986/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/Rudra2986/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -302,6 +304,7 @@
 | [0020-valid-parentheses](https://github.com/Rudra2986/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rudra2986/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Rudra2986/Leetcode/tree/master/0143-reorder-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudra2986/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Rudra2986/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rudra2986/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Memoization
@@ -358,6 +361,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rudra2986/Leetcode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudra2986/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rudra2986/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Minimax
 |  |
