@@ -362,6 +362,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rudra2986/Leetcode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudra2986/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Rudra2986/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rudra2986/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Minimax
 |  |
